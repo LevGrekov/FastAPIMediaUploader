@@ -1,0 +1,6 @@
+setup.py
+FastAPIMediaUploader.egg-info/PKG-INFO
+FastAPIMediaUploader.egg-info/SOURCES.txt
+FastAPIMediaUploader.egg-info/dependency_links.txt
+FastAPIMediaUploader.egg-info/top_level.txt
+tests/test_main.py
